@@ -83,3 +83,28 @@
         </div>
     </header>
 </template>
+
+<script setup>
+import { ref, onMounted } from 'vue';
+import { logout } from '~/services/AuthService';
+import { getAuth, onAuthStateChanged } from "firebase/auth";
+
+// Reactive variable to hold the current user
+const user = ref(null);
+
+// Get the Firebase authentication instance
+const auth = getAuth();
+
+// Function to handle the logout process
+const handleLogout = async () => {
+    await logout(); // Call the logout function from the AuthService
+    user.value = null; // After logout, set the user to null
+};
+
+// On component mount, listen for changes in the authentication state
+onMounted(() => {
+    onAuthStateChanged(auth, (currentUser) => {
+        user.value = currentUser; // Whenever the user state changes, update the user variable
+    });
+});
+</script>

@@ -1,12 +1,9 @@
 <template>
-    <!-- Hero hier -->
-    <MainHero />
-    <div class=" flex justify-center">
+    <div class="flex justify-center">
         <div class=" grid grid-col-1 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 gap-x-5">
-                <!-- <h1>Items List title</h1> -->
-                <div v-for="product in products" :key="product.id">
-                    <productCards :product="product" />
-                </div>
+            <div v-for="product in products" :key="product.id">
+                <productCards :product="product" />
+            </div>
         </div>
     </div>
 </template>
@@ -26,5 +23,3 @@ const fetchItems = async () => {
 
 onMounted(fetchItems);
 </script>
-
-<style scoped></style>

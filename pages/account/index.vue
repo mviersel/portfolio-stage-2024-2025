@@ -1,9 +1,7 @@
 <template>
-    <MainHeader />
-    <div class="">
-        <slot />
+    <div>
+<OverviewMobile />
     </div>
-    <MainFooter />
 </template>
 
 <script setup>

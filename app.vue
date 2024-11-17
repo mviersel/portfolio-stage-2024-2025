@@ -1,5 +1,6 @@
 <template>
-  <NuxtLayouts>
-    <NuxtPage />
-  </NuxtLayouts>
+    <VitePwaManifest />
+    <NuxtLayout>
+        <NuxtPage />
+    </NuxtLayout>
 </template>

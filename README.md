@@ -1,13 +1,12 @@
-# Portfolio 2024 - 2025
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b65e2bb4-e397-45ae-839d-2bc7a2cc1b79/deploy-status)](https://app.netlify.com/sites/spullekesnet/deploys)
 
+# Nuxt 3 Minimal Starter
 
-# Nuxt Minimal Starter
-
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
 
-Make sure to install dependencies:
+Make sure to install the dependencies:
 
 ```bash
 # npm
@@ -32,7 +31,7 @@ Start the development server on `http://localhost:3000`:
 npm run dev
 
 # pnpm
-pnpm dev
+pnpm run dev
 
 # yarn
 yarn dev
@@ -50,7 +49,7 @@ Build the application for production:
 npm run build
 
 # pnpm
-pnpm build
+pnpm run build
 
 # yarn
 yarn build
@@ -66,7 +65,7 @@ Locally preview production build:
 npm run preview
 
 # pnpm
-pnpm preview
+pnpm run preview
 
 # yarn
 yarn preview
@@ -76,3 +75,8 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+Run project on mobile devices over the network?
+```
+npm run dev -- --host
+```

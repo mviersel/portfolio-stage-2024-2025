@@ -10,8 +10,13 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.14.159",
-    "vue": "latest",
-    "vue-router": "latest"
+    "@vite-pwa/nuxt": "^0.8.0",
+    "firebase": "^10.12.2",
+    "nuxt": "^3.11.2",
+    "vue": "^3.4.27",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.0"
   }
 }
