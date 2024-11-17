@@ -50,7 +50,8 @@ export default defineNuxtConfig({
             "siteMain": {
               100: "#12355B",
               200: "#F0F2EF",
-              300: "#FF206E"
+              300: "#FF206E",
+              400: "#0055a8"
             }
           },
         }
