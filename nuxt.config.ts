@@ -2,11 +2,12 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxtjs/tailwindcss', "@vite-pwa/nuxt"],
+
   pwa: {
     manifest: {
-      "name": "Spullekes.net",
-      "short_name": "Spullekes",
-      "description": "Een plek voor jouw tweede hands spullekes",
+      "name": "portfolio 24-25",
+      "short_name": "Portfolio",
+      "description": "Mijn werk in een plek",
       "start_url": ".",
       "display": "standalone",
       "background_color": "#12355B",
@@ -39,7 +40,8 @@ export default defineNuxtConfig({
       ]
     }
   },
-  plugins: ["~/plugins/firebaseConfig.js"],
+
+  // plugins: ["~/plugins/firebaseConfig.js"],
   tailwindcss: {
     config: {
       theme: {
@@ -54,6 +56,8 @@ export default defineNuxtConfig({
         }
       }
     }
-  }
+  },
+
+  compatibilityDate: "2024-11-17"
 }
 )
