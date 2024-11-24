@@ -1,21 +1,21 @@
 <template>
-    <div class="bg-gray-100">
+    <div class="bg-gray-100 h-svh">
 
         <!-- "Hero" -->
         <section class="text-center">
-            <div class="flex justify-center py-20">
+            <div class="flex justify-center pt-20">
                 <div>
                     <h1 class="font-mendium text-gray-900 text-7xl pb-2 md:text-6xl">Aura Library app</h1>
                     <h6 class="font-medium text-gray-600 text-base md:text-lg mb-8">Onderzoek | Design | Realiseren</h6>
                 </div>
-                <div>
-                    <img src="" alt="" class="">
-                </div>
+            </div>
+            <div class="flex justify-center">
+                <img src="/assets/img/auralibrary/auraPlateV2.png" alt="" class="px-56">
             </div>
         </section>
 
         <!-- Info -->
-        <section>
+        <section class=" bg-gray-200">
             <div class="flex justify-center px-52">
                 <div>
                     <div class="flex py-10 text-2xl">
@@ -25,7 +25,8 @@
                     </div>
                     <div class="px-10">
                         <p>Het Aura Library project gaat om het herontwerpen van een bestaande app. Op dit moment is de
-                            alleen nog te gebruiken om spullen te lenen bij de ISSD. Het leek mij een beter idee om het een Fontys ICT weide app te maken.</p>
+                            alleen nog te gebruiken om spullen te lenen bij de ISSD. Het leek mij een beter idee om het
+                            een Fontys ICT weide app te maken.</p>
                     </div>
                 </div>
             </div>
