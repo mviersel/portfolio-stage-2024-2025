@@ -23,8 +23,8 @@
                     <h1 class="font-normal text-gray-900 text-4xl md:text-7xl leading-none mb-8">ICT & Media student
                     </h1>
 
-                    <p class="font-normal text-gray-600 text-md md:text-xl mb-16">Ik maak graag ontwerpen die mensen ook
-                        echt graag willen gebruiken.</p>
+                    <p class="font-normal text-gray-600 text-md md:text-xl mb-16">Ik maak ontwerpen die mensen ook
+                        echt willen gebruiken.</p>
 
                     <!-- <a href="#"
                         class="px-7 py-3 md:px-9 md:py-4 font-medium md:font-semibold bg-gray-700 text-gray-50 text-sm rounded-md hover:bg-gray-50 hover:text-gray-700 transition ease-linear duration-500">Bekijk
@@ -44,21 +44,21 @@
                 <div class="mx-auto grid w-full grid-cols-1 gap-8 pt-12 sm:w-3/4 md:gap-10 lg:w-full lg:grid-cols-2">
                     <NuxtLink to="/projecten/auralibrary"
                         class="mx-auto transform transition-all hover:scale-105 md:mx-0">
-                        <img src="https://images.unsplash.com/photo-1635514569146-9a9607ecf303?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        <img src="/assets/img/covers/CoversPortfolio-05-02.png"
                             class="w-full shadow grayscale hover:grayscale-0" alt="portfolio image" />
                     </NuxtLink>
                     <NuxtLink to="/projecten/spullekes"
                         class="mx-auto transform transition-all hover:scale-105 md:mx-0">
-                        <img src="https://images.unsplash.com/photo-1635514569146-9a9607ecf303?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        <img src="/assets/img/covers/CoversPortfolio-05-03.png"
                             class="w-full shadow grayscale hover:grayscale-0" alt="portfolio image" />
                     </NuxtLink>
                     <NuxtLink to="/projecten/netvlies" class="mx-auto transform transition-all hover:scale-105 md:mx-0">
-                        <img src="https://images.unsplash.com/photo-1635514569146-9a9607ecf303?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        <img src="/assets/img/covers/CoversPortfolio-05-04.png"
                             class="w-full shadow grayscale hover:grayscale-0" alt="portfolio image" />
                     </NuxtLink>
                     <NuxtLink to="/projecten/speeltuin"
                         class="mx-auto transform transition-all hover:scale-105 md:mx-0">
-                        <img src="https://images.unsplash.com/photo-1635514569146-9a9607ecf303?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        <img src="/assets/img/covers/CoversPortfolio-05-05.png"
                             class="w-full shadow grayscale hover:grayscale-0" alt="portfolio image" />
                     </NuxtLink>
                 </div>
