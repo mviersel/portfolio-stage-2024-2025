@@ -40,9 +40,13 @@
                         <h1 class="font-normal text-gray-700">Requirements</h1>
                     </div>
                     <div class="px-10">
-                        <p>Bij het Aura Library project gaat om het herontwerpen van een bestaande app. Op dit moment is de app eingenlijk alleen handig als je spullen van de ISSD wil lenen. Als een student die werkt met de app leek het me handig om bepaale functie toe te voegen die het gebruiken kunnen verbeteren.
+                        <p>Bij het Aura Library project gaat om het herontwerpen van een bestaande app. Op dit moment is
+                            de app eingenlijk alleen handig als je spullen van de ISSD wil lenen. Als een student die
+                            werkt met de app leek het me handig om bepaale functie toe te voegen die het gebruiken
+                            kunnen verbeteren.
                         </p>
-                        <p>Omdat deze app een vebeterde variant moet worden van de bestaande ben ik als eerste gaan kijken naar wat de bestaande app als functies heeft.</p>
+                        <p>Omdat deze app een vebeterde variant moet worden van de bestaande ben ik als eerste gaan
+                            kijken naar wat de bestaande app als functies heeft.</p>
                     </div>
                 </div>
             </div>
