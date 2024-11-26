@@ -36,21 +36,21 @@
                 <div class="mx-auto grid w-full grid-cols-1 gap-8 pt-12 sm:w-3/4 md:gap-10 lg:w-full lg:grid-cols-2">
                     <NuxtLink to="/projecten/auralibrary"
                         class="mx-auto transform transition-all hover:scale-105 md:mx-0">
-                        <img src="/assets/img/covers/CoversPortfolio-05-02.png"
+                        <img src="/public/img/covers/CoversPortfolio-05-02.png"
                             class="w-full shadow grayscale hover:grayscale-0" alt="portfolio image" />
                     </NuxtLink>
                     <NuxtLink to="/projecten/spullekes"
                         class="mx-auto transform transition-all hover:scale-105 md:mx-0">
-                        <img src="/assets/img/covers/CoversPortfolio-05-03.png"
+                        <img src="/public/img/covers/CoversPortfolio-05-04.png"
                             class="w-full shadow grayscale hover:grayscale-0" alt="portfolio image" />
                     </NuxtLink>
                     <NuxtLink to="/projecten/netvlies" class="mx-auto transform transition-all hover:scale-105 md:mx-0">
-                        <img src="/assets/img/covers/CoversPortfolio-05-04.png"
+                        <img src="/public/img/covers/CoversPortfolio-05-03.png"
                             class="w-full shadow grayscale hover:grayscale-0" alt="portfolio image" />
                     </NuxtLink>
                     <NuxtLink to="/projecten/speeltuin"
                         class="mx-auto transform transition-all hover:scale-105 md:mx-0">
-                        <img src="/assets/img/covers/CoversPortfolio-05-05.png"
+                        <img src="/public/img/covers/CoversPortfolio-05-05.png"
                             class="w-full shadow grayscale hover:grayscale-0" alt="portfolio image" />
                     </NuxtLink>
                 </div>
@@ -150,25 +150,7 @@
 
         </section>
 
-        <footer class="py-16">
-
-            <div class="container max-w-screen-xl mx-auto px-4">
-
-                <div class="text-center">
-
-                    <div class="flex items-center justify-center space-x-8">
-                        <a href="https://www.linkedin.com/in/martijn-van-iersel-88aab0186/"
-                            class="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500 opacity-20 hover:opacity-100">
-                            <img src="/assets/img/linkedin-svgrepo-com.svg" class="h-5">
-                            <i
-                                class="bx bxl-linkedin text-2xl text-gray-500 hover:text-gray-800 ease-in-out duration-500"></i>
-                        </a>
-                    </div>
-                </div>
-
-            </div>
-
-        </footer>
+        <Footer />
     </div>
 
 </template>
