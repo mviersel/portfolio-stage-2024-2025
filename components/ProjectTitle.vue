@@ -7,7 +7,7 @@
                     class="text-2xl leading-9 tracking-tight mb-3 text-gray  sm:text-4xl sm:leading-10 md:text-5xl md:leading-normal">
                     {{ title }}
                 </h1>
-                <p class="mb-8 md:pl-0  pl-2 pr-2 leading-relaxed">
+                <p class="mb-8 md:pl-0  pl-2 pr-2 leading-relaxed text-gray-600">
                     {{ subtitle }}
                 </p>
             </div>

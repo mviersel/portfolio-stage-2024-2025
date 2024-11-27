@@ -1,14 +1,24 @@
-<template >
-    
-<section class="md:px-20 lg:px-40">
-    <MainNav />
+<template>
 
-    
-    <div>
+    <div class="bg-100">
+
+        <MainNav />
+        <ProjectTitle title="Speeltuin" subtitle="Van proberen kun je leren" titleimage="" />
+
+        <section>
+            <BodyTitle stap="" fase="" />
+
+            <BodyText alinea="" />
+            <BodyText alinea="" />
+
+            <BodyTextImage kop="" content="" image="" />
+            <BodyTextImageMirror kop="" content="" image="" />
+
+        </section>
+
+        <footer />
 
     </div>
-    Speeltuin
-</section>
 
 </template>
 
