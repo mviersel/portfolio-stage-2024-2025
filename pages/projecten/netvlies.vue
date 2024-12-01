@@ -10,7 +10,7 @@
             <BodyTitle stap="Fase 1" fase="Intro" />
 
             <BodyText
-                alinea="Netvlies uit Breda had een opdracht over onboarding voor ons. We hebben hierbij twee rollen binnen dit process aangepakt en uitgewerkt. De onboarder is iemand die nieuw is binnen het bedrijf en nog de benodigde informatie moet krijgen. De buddy is de begeleider van de nieuwe werknemer en zorgt voor taken om beter in het bedrijf te starten." />
+                alinea="Netvlies uit Breda had een opdracht over onboarding voor ons. We hebben hierbij twee rollen binnen dit process aangepakt en uitgewerkt. De onboarder is iemand die nieuw is binnen het bedrijf en nog de benodigd   e informatie moet krijgen. De buddy is de begeleider van de nieuwe werknemer en zorgt voor taken om beter in het bedrijf te starten." />
 
             <BodyTitle stap="Fase 2" fase="Oplossing" />
 
