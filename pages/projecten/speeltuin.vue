@@ -3,7 +3,7 @@
     <div class="bg-100">
 
         <MainNav />
-        <ProjectTitle title="Speeltuin" subtitle="Van proberen kun je leren"
+        <ProjectTitle title="Speeltuin" subtitle="Van proberen kun je leren. Mijn speeltuin is een plek waar uit eigen bewegin naar toe ga. Het zijn die dingen die ik interessant vind en extra tijd in wil steken."
             titleimage="/img/covers/CoversPortfolio-05-05.png" />
 
         <section class="max-w-screen-xl mx-auto">

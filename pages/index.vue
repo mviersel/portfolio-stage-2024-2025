@@ -32,7 +32,7 @@
         <section>
             <div class="container max-w-screen-xl mx-auto px-4" id="portfolio">
                 <h1 class="font-medium text-gray-700 text-3xl md:text-4xl mb-5">Portfolio</h1>
-                <p class="font-normal text-gray-500 text-xs md:text-base">Hier het ik het meeste van geleerd.</p>
+                <p class="font-normal text-gray-500 text-xs md:text-base">Hier heb ik het meeste van geleerd.</p>
                 <div class="mx-auto grid w-full grid-cols-1 gap-8 pt-12 sm:w-3/4 md:gap-10 lg:w-full lg:grid-cols-2">
                     <NuxtLink to="/projecten/auralibrary"
                         class="mx-auto transform transition-all hover:scale-105 md:mx-0">
@@ -108,7 +108,7 @@
                         <h1 class="font-medium text-gray-700 text-3xl md:text-4xl mb-5">Wat wil ik graag leren</h1>
                         <p class="font-normal text-gray-500 text-xs md:text-base flex-grow-0">Er valt altijd genoeg te
                             leren, maar
-                            ik wil ik me graag als eerste op focussen. Het gaat in de praktijk natuurlijk anders dan op
+                            ik wil me graag hier als eerste op focussen. Het gaat in de praktijk natuurlijk anders dan op
                             school.</p>
                     </div>
 
@@ -133,9 +133,9 @@
                             <!-- <span class="w-28 h-0.5 bg-gray-300 mt-5"></span> -->
                             <!-- <NuxtLink to="/"> -->
                             <div>
-                                <h1 class="font-normal text-gray-700 text-3xl md:text-4xl mb-5">Design valideren</h1>
+                                <h1 class="font-normal text-gray-700 text-3xl md:text-4xl mb-5">Project validatie</h1>
                                 <p class="font-normal text-gray-500 text-sm md:text-base">Hoe wordt er in de praktijk
-                                    omgegaan met het valideren van een project. </p>
+                                    omgegaan met het valideren van projectstappen. </p>
                             </div>
                             <!-- </NuxtLink> -->
                         </div>
