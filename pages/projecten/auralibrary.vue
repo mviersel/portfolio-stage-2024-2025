@@ -17,14 +17,14 @@
 
             <BodyTextImage kop="Bestaande app"
                 content="Omdat deze app een vebeterde variant moet worden van de bestaande ben ik als eerste gaan kijken naar wat de bestaande app als functies heeft."
-                image="/img/auralibrary/auraPlateV2.png" />
+                image="/img/auralibrary/project/bestaande-app.png" />
             <BodyTextImageMirror kop="User flow"
                 content="Door het bekijken van de huidige app heb ik een een user flow diagram kunnen maken idee een goed idee geeft over de app. Zelf had ik nog een paar ideeën voor functies om toe te voegen aan de app. Deze heb ik ook toegevoegd aan de diagram."
-                image="" />
+                image="/img/auralibrary/project/user-flow-aura-library.png" />
 
             <BodyTitle stap="Stap 3" fase="Design" />
 
-            <BodyTextImage kop="Design voor mobile" content="Het design geeft door middel van een bentobox design snel een overzicht van de app. Onderaan staan verschillende tabjes die je naar de pagina brengen waar je moet zijn. Er is nog overwogen om de tabjes bovenaan het scherm te zetten, maar het is vriendelijk voor mobiel om het onderaan te zetten. " image="" />
+            <BodyTextImage kop="Design voor mobile" content="Het design geeft door middel van een bentobox design snel een overzicht van de app. Onderaan staan verschillende tabjes die je naar de pagina brengen waar je moet zijn. Er is nog overwogen om de tabjes bovenaan het scherm te zetten, maar het is vriendelijk voor mobiel om het onderaan te zetten. Omdat het project nog steeds bezig is kan alleen dit scherm worden laten zien." image="/img/auralibrary/aurapage-withoutmockup.png" />
 
         </section>
 
