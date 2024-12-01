@@ -19,8 +19,8 @@
                     <h6 class="font-medium text-gray-600 text-lg md:text-2xl uppercase mb-8">Martijn van Iersel</h6>
                     <h1 class="font-normal text-gray-900 text-4xl md:text-7xl leading-none mb-8">ICT & Media student
                     </h1>
-                    <p class="font-normal text-gray-600 text-md md:text-xl mb-16">Ik maak ontwerpen die mensen ook
-                        echt willen gebruiken.</p>
+                    <!-- <p class="font-normal text-gray-600 text-md md:text-xl mb-16">Ik maak ontwerpen die mensen ook
+                        echt willen gebruiken.</p> -->
                     <!-- <a href="#"
                         class="px-7 py-3 md:px-9 md:py-4 font-medium md:font-semibold bg-gray-700 text-gray-50 text-sm rounded-md hover:bg-gray-50 hover:text-gray-700 transition ease-linear duration-500">Bekijk
                         mijn portfolio</a> -->

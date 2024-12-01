@@ -5,18 +5,16 @@
         <MainNav />
         <ProjectTitle title="Speeltuin" subtitle="Van proberen kun je leren" titleimage="" />
 
-        <section>
-            <BodyTitle stap="" fase="" />
-
-            <BodyText alinea="" />
-            <BodyText alinea="" />
-
+        <section class="max-w-screen-xl mx-auto">
+            <BodyTitle stap="Project 1" fase="3D" />
             <BodyTextImage kop="" content="" image="" />
+
+            <BodyTitle stap="Project 2" fase="" />
             <BodyTextImageMirror kop="" content="" image="" />
 
         </section>
 
-        <footer />
+        <Footer />
 
     </div>
 

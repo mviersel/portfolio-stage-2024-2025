@@ -5,18 +5,27 @@
         <MainNav />
         <ProjectTitle title="Nevlies" subtitle="Onboardings process" titleimage="" />
 
-        <section>
-            <BodyTitle stap="" fase="" />
+        <section class="max-w-screen-xl mx-auto">
+            <BodyTitle stap="Fase 1" fase="Intro" />
 
-            <BodyText alinea="" />
-            <BodyText alinea="" />
+            <BodyText
+                alinea="Netvlies uit Breda had een opdracht over onboarding voor ons. We hebben hierbij twee rollen binnen dit process gepakt en uitgewerkt. De onboarder is iemand die nieuw is binnen het bedrijf en nog nodige informatie moet krijgen. De buddy is de begeleider van de nieuwe werknemer en zorgt voor taken om beter in het bedrijf te starten." />
 
-            <BodyTextImage kop="" content="" image="" />
-            <BodyTextImageMirror kop="" content="" image="" />
+            <BodyTitle title="Fase 2" fase="Oplossing" />
+            <BodyTextImage kop=""
+                content="Ik heb toen gekeken naar de verwelkoming van de nieuwe werknemer. Dit heb ik gedaan door middel welkomst website die wordt toegestuurd. Je krijgt hier een video te zien van de werknemers en extra informatie voor de eerste dag."
+                image="" />
+            <BodyTextImageMirror kop=""
+                content="Er ook nog gekeken naar een portaal voor de onboarder. Het is namelijk de bedoeling dat ze een lijst krijgen met opdrachten waardoor ze zich sneller op hun gemakt kunnen voelen in het bedrijf. De buddy kan hier de taken voor invullen en vragen om feedback. Deze informatie kan vervolgens gebruiken worden als startpunt bij de evaluatie gesprekken."
+                image="" />
+
+            <BodyTitle stap="Fase 3" fase="Oplevering" />
+            <BodyText
+                alinea="Om een het hele proces goed te kunnen laten zien is er een presentatie gemaakt die het hele proces laat zien. Er is ook een website voor gemaakt met Nuxt3. Hier heb ik voor het eerste gewerkt met een framework en components." />
 
         </section>
 
-        <footer />
+        <Footer />
 
     </div>
 
