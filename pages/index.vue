@@ -90,59 +90,70 @@
                 </div>
             </div>
         </section>
+
+
+
+
+
+
+
+
+
+
         <!-- Wat wil ik graag leren -->
         <section class="py-10 md:py-16">
             <div class="container max-w-screen-xl mx-auto px-4">
-                <div class="flex flex-col lg:flex-row justify-between">
+                <div class="flex flex-grow flex-col lg:flex-row justify-between">
                     <div class="mb-10 lg:mb-0">
                         <h1 class="font-medium text-gray-700 text-3xl md:text-4xl mb-5">Wat wil ik graag leren</h1>
-                        <p class="font-normal text-gray-500 text-xs md:text-base">Er valt altijd genoeg te leren, maar
+                        <p class="font-normal text-gray-500 text-xs md:text-base flex-grow-0">Er valt altijd genoeg te
+                            leren, maar
                             ik wil ik me graag als eerste op focussen. Het gaat in de praktijk natuurlijk anders dan op
                             school.</p>
                     </div>
 
                     <div class="space-y-24">
+
                         <div class="flex space-x-6">
                             <h1 class="font-normal text-gray-700 text-3xl md:text-4xl">01</h1>
-                            <span class="w-28 h-0.5 bg-gray-300 mt-5"></span>
-
+                            <!-- <span class="w-28 h-0.5 bg-gray-300 mt-5"></span> -->
+                            <!-- <span class="w-10 h-0.5 bg-gray-300 mt-5 mx-5 flex-grow-0"></span> -->
                             <!-- <NuxtLink to="/"> -->
                             <div>
                                 <h1 class="font-normal text-gray-700 text-3xl md:text-4xl mb-5">Brain stormen</h1>
                                 <p class="font-normal text-gray-500 text-sm md:text-base">Hoe komt een UX/UI'er aan een
-                                    idee. En hoe kan ik zorgen dan ik mijn manier nog beter kan maken.</p>
+                                    idee. Hoe kan ik zorgen dat mijn manier van werken nog beter wordt.</p>
                             </div>
                             <!-- </NuxtLink> -->
                         </div>
 
                         <div class="flex space-x-6">
                             <h1 class="font-normal text-gray-700 text-3xl md:text-4xl">02</h1>
-                            <span class="w-28 h-0.5 bg-gray-300 mt-5"></span>
+                            <!-- <span class="w-10 h-0.5 bg-gray-300 mt-5 mx-5 flex-grow-0"></span> -->
+                            <!-- <span class="w-28 h-0.5 bg-gray-300 mt-5"></span> -->
                             <!-- <NuxtLink to="/"> -->
                             <div>
                                 <h1 class="font-normal text-gray-700 text-3xl md:text-4xl mb-5">Design valideren</h1>
-
-                                <p class="font-normal text-gray-500 text-sm md:text-base">Op welke kan ik zien welke
-                                    punten nog aandacht nodig hebben. </p>
+                                <p class="font-normal text-gray-500 text-sm md:text-base">Hoe wordt er in de praktijk
+                                    omgegaan met het valideren van een project. </p>
                             </div>
                             <!-- </NuxtLink> -->
                         </div>
 
                         <div class="flex space-x-6">
                             <h1 class="font-normal text-gray-700 text-3xl md:text-4xl">03</h1>
-
-                            <span class="w-28 h-0.5 bg-gray-300 mt-5"></span>
-
+                            <!-- <span class="w-28 h-0.5 bg-gray-300 mt-5"></span> -->
+                            <!-- <span class="w-10 h-0.5 bg-gray-300 mt-5 mx-5 flex-grow-0"></span> -->
                             <!-- <NuxtLink to="/"> -->
                             <div>
                                 <h1 class="font-normal text-gray-700 text-3xl md:text-4xl mb-5">Project in actie brengen
                                 </h1>
-
                                 <p class="font-normal text-gray-500 text-sm md:text-base">Hoe werk je samen met een
                                     developer om het project van een concept naar een werkend product te krijgen.</p>
                             </div>
                             <!-- </NuxtLink> -->
                         </div>
+
                     </div>
                 </div>
 
