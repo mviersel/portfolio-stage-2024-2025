@@ -3,7 +3,8 @@
     <div class="bg-100">
 
         <MainNav />
-        <ProjectTitle title="Speeltuin" subtitle="Van proberen kun je leren. Mijn speeltuin is een plek waar uit eigen bewegin naar toe ga. Het zijn die dingen die ik interessant vind en extra tijd in wil steken."
+        <ProjectTitle title="Speeltuin"
+            subtitle="Van proberen kun je leren. Dat is precies wat ik doe in mijn speeltuin. Heb ik een leuk idee, dan ga ik naar de speeltuin. Wil ik oefenen met iets wat ik net geleerd heb, dan ga ik naar de speeltuin. In de speeltuin bestaat geen tijdsdruk en het is ook niet erg als het niet lukt. Het gaat er om dat je probeert, fouten maken mag."
             titleimage="/img/covers/CoversPortfolio-05-05.png" />
 
         <section class="max-w-screen-xl mx-auto">
