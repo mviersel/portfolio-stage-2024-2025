@@ -1,82 +1,17 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b65e2bb4-e397-45ae-839d-2bc7a2cc1b79/deploy-status)](https://app.netlify.com/sites/spullekesnet/deploys)
+<br></br>
 
-# Nuxt 3 Minimal Starter
+<div align="center">
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<a href="https://martijnvaniersel.netlify.app/">
+    <img src="./assets/img/Logo-gray-transparent.png" alt="Logo martijn" height="80">
+</a>
 
-## Setup
+  <h3 align="center">Portfolio 2024 - 2025</h3>
 
-Make sure to install the dependencies:
+  <p align="center">
+    De repo met het uitgewerkte project voor Netvlies
+    <br>
+    <a href="https://martijnvaniersel.netlify.app/">Bekijk mijn portfolio</a>
+  </p>
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-
-Run project on mobile devices over the network?
-```
-npm run dev -- --host
-```
+</div>
