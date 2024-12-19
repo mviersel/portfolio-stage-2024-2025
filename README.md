@@ -9,7 +9,7 @@
   <h3 align="center">Portfolio 2024 - 2025</h3>
 
   <p align="center">
-    De repo met het uitgewerkte project voor Netvlies
+    Mijn portfolio is gemaakt in Nuxt3
     <br>
     <a href="https://martijnvaniersel.netlify.app/">Bekijk mijn portfolio</a>
   </p>
