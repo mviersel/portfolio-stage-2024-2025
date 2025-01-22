@@ -3,7 +3,7 @@
     <div class="bg-100">
 
         <MainNav />
-        <ProjectTitle title="Nevlies" subtitle="Onboardings process"
+        <ProjectTitle title="Netvlies" subtitle="Onboarding process"
             titleimage="/img/covers/CoversPortfolio-05-03.png" />
 
         <section class="max-w-screen-xl mx-auto">
