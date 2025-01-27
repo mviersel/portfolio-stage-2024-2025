@@ -13,7 +13,7 @@
 
                 <div class="text-center">
                     <div class="flex justify-center mb-16">
-                        <img src="https://media.licdn.com/dms/image/v2/D4E03AQEQTt422QJhhA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1681157489564?e=1737590400&v=beta&t=8yMRDulk_9xSPXtZkC-RGBj6KqlCHM-aDBJs29TtkJU"
+                        <img src="https://media.licdn.com/dms/image/v2/D4E03AQEQTt422QJhhA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1681157489564?e=1743638400&v=beta&t=wfWLHNWD4EEw4jrKmHlUrYH_USxARmP5lXpVZ_BWtKk"
                             alt="Image" class="grayscale hover:grayscale-0 rounded-full">
                     </div>
                     <h6 class="font-medium text-gray-600 text-lg md:text-2xl uppercase mb-8">Martijn van Iersel</h6>
