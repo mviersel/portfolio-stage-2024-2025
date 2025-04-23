@@ -13,7 +13,7 @@
 
                 <div class="text-center">
                     <div class="flex justify-center mb-16">
-                        <img src="../assets/img/Martijn-pf-foto.JPG"
+                        <img src="../assets/img/Martijn-pf-foto.png"
                             alt="Image" class="grayscale hover:grayscale-0 rounded-full h-80">
                     </div>
                     <h6 class="font-medium text-gray-600 text-lg md:text-2xl uppercase mb-8">Martijn van Iersel</h6>
