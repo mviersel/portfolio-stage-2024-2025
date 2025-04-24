@@ -25,7 +25,7 @@
             <BodyTitle stap="Stap 3" fase="Oplevering" />
             <BodyTextVideo kop=""
                 content="Om het hele proces goed te kunnen laten zien is er een presentatie gemaakt. Er is ook een website voor gemaakt met Nuxt3. Hier heb ik voor het eerst gewerkt met een framework en components. In de video is het uiteindelijke product te zien."
-                video="https://i512214.luna.fhict.nl/bewijs/netvlies-flow/flow-compleet.mp4" />
+                video="https://i512214.luna.fhict.nl/flow-compleet.mp4" />
 
             <BodyText alinea="" />
 
